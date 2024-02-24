@@ -9,7 +9,7 @@ Testing Framework: TestNG
 
 
 ## Project Approach
-The project aimed to automate the verification of film (Betty Blue) information on IMDb using Java with Selenium WebDriver for automation. TestNG was chosen as the testing framework for its flexibility and robustness, while Allure Report was used for comprehensive test reporting.
+The project aimed to automate the verification of film (Betty Blue) information on IMDb using Java with Selenium WebDriver for automation. TestNG was chosen as the testing framework for its flexibility and robustness.
 
 ## Test Case Overview
 The test case focused on verifying the consistency of "Director", "Writer", and "Stars" information for a film accessed through two access methods: via the Oscars section and direct search.
